@@ -1,0 +1,173 @@
+[
+  {
+    "id": "cheek",
+    "name": "Beef Cheek",
+    "animal": "Beef",
+    "primal": "Head",
+    "collagen_heavy": true,
+    "fat_level": "medium",
+    "ideal_methods": ["braise", "pressure", "slow-cook"],
+    "quick_alt": "pressure",
+    "default_temps": { "braise_c": 150, "pressure": "high" },
+    "default_times": { "braise_hours_per_0_8kg": 3.5, "pressure_minutes_per_0_8kg": 55 },
+    "tips": [
+      "Trim excess silver skin; keep the sinew for gelatin-rich sauce.",
+      "Brown well to build fond; deglaze with red wine.",
+      "Allow a full natural pressure release for tender texture."
+    ],
+    "images": ["/images/cheek-1.jpg", "/images/cheek-2.jpg"]
+  },
+  {
+    "id": "oxtail",
+    "name": "Oxtail",
+    "animal": "Beef",
+    "primal": "Tail",
+    "collagen_heavy": true,
+    "fat_level": "high",
+    "ideal_methods": ["braise", "pressure", "stew"],
+    "quick_alt": "pressure",
+    "default_temps": { "braise_c": 150, "pressure": "high" },
+    "default_times": { "braise_hours_per_0_8kg": 4, "pressure_minutes_per_0_8kg": 60 },
+    "tips": [
+      "Skim rendered fat during cooking for a cleaner sauce.",
+      "Chill overnight to remove excess fat and reheat next day for best texture."
+    ],
+    "images": ["/images/oxtail-1.jpg"]
+  },
+  {
+    "id": "ossobuco",
+    "name": "Osso Buco (Shank)",
+    "animal": "Beef",
+    "primal": "Shank",
+    "collagen_heavy": true,
+    "fat_level": "low",
+    "ideal_methods": ["braise", "pressure"],
+    "quick_alt": "pressure",
+    "default_temps": { "braise_c": 150 },
+    "default_times": { "braise_hours_per_0_8kg": 3.5, "pressure_minutes_per_0_8kg": 50 },
+    "tips": [
+      "Tie each piece to keep marrow in place.",
+      "Finish with gremolata to brighten rich flavors."
+    ],
+    "images": ["/images/ossobuco-1.jpg"]
+  },
+  {
+    "id": "ribeye",
+    "name": "Ribeye Steak",
+    "animal": "Beef",
+    "primal": "Rib",
+    "collagen_heavy": false,
+    "fat_level": "high",
+    "ideal_methods": ["sear", "grill"],
+    "quick_alt": "reverse-sear",
+    "default_temps": { "sear_target_c": "54–57" },
+    "default_times": { "sear_minutes_per_side": 2.5 },
+    "tips": [
+      "Pat very dry and salt ahead for better crust.",
+      "Butter baste with thyme and garlic; rest 5 minutes before slicing."
+    ],
+    "images": ["/images/ribeye-1.jpg"]
+  },
+  {
+    "id": "stirfry-strips",
+    "name": "Stir-fry Strips",
+    "animal": "Beef",
+    "primal": "Various (lean)",
+    "collagen_heavy": false,
+    "fat_level": "low",
+    "ideal_methods": ["stir-fry"],
+    "quick_alt": "sear",
+    "default_temps": { "wok_heat": "very-high" },
+    "default_times": { "stirfry_total_minutes": 2.5 },
+    "tips": [
+      "Slice across the grain and keep pieces dry.",
+      "Cook in small batches; do not crowd the pan."
+    ],
+    "images": ["/images/stirfry-1.jpg"]
+  },
+  {
+    "id": "mince",
+    "name": "Beef Mince",
+    "animal": "Beef",
+    "primal": "Various",
+    "collagen_heavy": false,
+    "fat_level": "medium",
+    "ideal_methods": ["sauté", "stew", "simmer"],
+    "quick_alt": "sauté",
+    "default_temps": { "sauté": "medium-high" },
+    "default_times": { "bolognese_hours": 2 },
+    "tips": [
+      "Brown in a wide pan for best maillard.",
+      "Deglaze and simmer low for tenderness."
+    ],
+    "images": ["/images/mince-1.jpg"]
+  },
+  {
+    "id": "wagyu-mince",
+    "name": "Wagyu Mince",
+    "animal": "Beef",
+    "primal": "Various",
+    "collagen_heavy": false,
+    "fat_level": "very-high",
+    "ideal_methods": ["sear", "grill"],
+    "quick_alt": "sear",
+    "default_temps": { "burger_target_c": "60–63" },
+    "default_times": { "smash_minutes_total": 4 },
+    "tips": [
+      "Minimal handling; let fat render for flavor.",
+      "Skip extra oil—patty has abundant fat."
+    ],
+    "images": ["/images/wagyu-mince-1.jpg"]
+  },
+  {
+    "id": "marrow-bones",
+    "name": "Marrow Bones",
+    "animal": "Beef",
+    "primal": "Leg",
+    "collagen_heavy": false,
+    "fat_level": "very-high",
+    "ideal_methods": ["roast"],
+    "quick_alt": "broil",
+    "default_temps": { "roast_c": 220 },
+    "default_times": { "roast_minutes": 20 },
+    "tips": [
+      "Season simply; serve with parsley salad and toast.",
+      "Roast until marrow just quivers."
+    ],
+    "images": ["/images/marrow-1.jpg"]
+  },
+  {
+    "id": "brisket-bones",
+    "name": "Brisket Bones",
+    "animal": "Beef",
+    "primal": "Brisket",
+    "collagen_heavy": true,
+    "fat_level": "medium",
+    "ideal_methods": ["simmer", "stock", "pressure"],
+    "quick_alt": "pressure",
+    "default_temps": { "simmer": "gentle" },
+    "default_times": { "stock_hours": 6, "pressure_minutes": 90 },
+    "tips": [
+      "Blanch then rinse for a clear broth.",
+      "Simmer gently; avoid violent boiling."
+    ],
+    "images": ["/images/brisket-bones-1.jpg"]
+  },
+  {
+    "id": "tongue",
+    "name": "Beef Tongue",
+    "animal": "Beef",
+    "primal": "Head",
+    "collagen_heavy": true,
+    "fat_level": "medium",
+    "ideal_methods": ["braise", "pressure", "simmer"],
+    "quick_alt": "pressure",
+    "default_temps": { "simmer": "gentle" },
+    "default_times": { "braise_hours_per_0_8kg": 3, "pressure_minutes_per_0_8kg": 50 },
+    "tips": [
+      "Peel skin while warm after cooking.",
+      "Slice thinly across the grain for tacos or sandwiches."
+    ],
+    "images": ["/images/tongue-1.jpg"]
+  }
+]

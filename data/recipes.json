@@ -1,0 +1,231 @@
+[
+  {
+    "id": "cheek-red-wine",
+    "title": "Red Wine Braised Beef Cheeks",
+    "cut": "cheek",
+    "method": "braise",
+    "total_time_minutes": 240,
+    "serves": 4,
+    "ingredients": [
+      "1.2 kg beef cheeks",
+      "2 onions, diced",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "3 tbsp tomato paste",
+      "500 ml dry red wine",
+      "500 ml beef stock",
+      "2 sprigs thyme",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Pat cheeks dry and season.",
+      "Brown in batches; set aside.",
+      "Sauté mirepoix; add tomato paste and brown.",
+      "Deglaze with wine; reduce by half.",
+      "Add stock and thyme; return cheeks and braise at 150 C until tender.",
+      "Rest and reduce sauce to glaze."
+    ],
+    "tips": ["Skim fat; finish with a knob of butter for shine."],
+    "image": "/images/cheek-1.jpg"
+  },
+  {
+    "id": "oxtail-stew",
+    "title": "Slow Braised Oxtail Stew",
+    "cut": "oxtail",
+    "method": "braise",
+    "total_time_minutes": 300,
+    "serves": 6,
+    "ingredients": [
+      "1.6 kg oxtail, jointed",
+      "2 onions",
+      "4 cloves garlic",
+      "2 tbsp brown sugar",
+      "2 tbsp soy sauce",
+      "400 g tomatoes",
+      "750 ml beef stock",
+      "Allspice, thyme, chili"
+    ],
+    "steps": [
+      "Brown oxtail deeply.",
+      "Sweat aromatics; deglaze and add liquids.",
+      "Braise at 150 C until gelatinous and soft.",
+      "Skim fat and adjust seasoning."
+    ],
+    "tips": ["Tastes better next day; reheat gently."],
+    "image": "/images/oxtail-1.jpg"
+  },
+  {
+    "id": "ossobuco-milanese",
+    "title": "Osso Buco alla Milanese",
+    "cut": "ossobuco",
+    "method": "braise",
+    "total_time_minutes": 210,
+    "serves": 4,
+    "ingredients": [
+      "4 cross-cut shanks",
+      "Flour for dredging",
+      "2 onions, diced",
+      "2 carrots, diced",
+      "2 celery, diced",
+      "250 ml white wine",
+      "700 ml stock",
+      "Gremolata (parsley, lemon zest, garlic)"
+    ],
+    "steps": [
+      "Tie and season shanks; dredge lightly.",
+      "Brown shanks; sauté vegetables.",
+      "Deglaze with wine; add stock and braise until tender.",
+      "Serve topped with gremolata."
+    ],
+    "tips": ["Keep marrow intact by gentle handling."],
+    "image": "/images/ossobuco-1.jpg"
+  },
+  {
+    "id": "ribeye-butter-baste",
+    "title": "Butter-Basted Ribeye",
+    "cut": "ribeye",
+    "method": "sear",
+    "total_time_minutes": 20,
+    "serves": 2,
+    "ingredients": [
+      "2 ribeye steaks",
+      "Salt and pepper",
+      "4 tbsp butter",
+      "2 cloves garlic",
+      "Thyme"
+    ],
+    "steps": [
+      "Preheat pan until smoking; sear 2.5 min per side.",
+      "Add butter, garlic, thyme; baste.",
+      "Rest and slice; target 54–57 C internal."
+    ],
+    "tips": ["Dry the steak very well for crust."],
+    "image": "/images/ribeye-1.jpg"
+  },
+  {
+    "id": "quick-stirfry",
+    "title": "Quick Beef Stir-fry",
+    "cut": "stirfry-strips",
+    "method": "stir-fry",
+    "total_time_minutes": 15,
+    "serves": 2,
+    "ingredients": [
+      "400 g beef strips",
+      "2 tbsp soy sauce",
+      "1 tbsp cornflour",
+      "1 tbsp oil",
+      "Vegetables of choice"
+    ],
+    "steps": [
+      "Marinate briefly; pat dry.",
+      "Stir-fry over very high heat under 2–3 minutes total.",
+      "Toss with vegetables just to combine."
+    ],
+    "tips": ["Cook in batches; do not steam the meat."],
+    "image": "/images/stirfry-1.jpg"
+  },
+  {
+    "id": "bolognese-classic",
+    "title": "Classic Bolognese",
+    "cut": "mince",
+    "method": "simmer",
+    "total_time_minutes": 150,
+    "serves": 6,
+    "ingredients": [
+      "800 g beef mince",
+      "1 onion",
+      "2 carrots",
+      "2 celery",
+      "700 g passata",
+      "Milk, wine"
+    ],
+    "steps": [
+      "Brown mince well.",
+      "Add soffritto; cook until sweet.",
+      "Add liquids and simmer gently until rich."
+    ],
+    "tips": ["Low and slow yields tenderness."],
+    "image": "/images/mince-1.jpg"
+  },
+  {
+    "id": "wagyu-smash-burger",
+    "title": "Wagyu Smash Burgers",
+    "cut": "wagyu-mince",
+    "method": "sear",
+    "total_time_minutes": 25,
+    "serves": 4,
+    "ingredients": [
+      "600 g wagyu mince",
+      "Salt and pepper",
+      "Buns and toppings"
+    ],
+    "steps": [
+      "Form loose balls; smash onto hot griddle.",
+      "Sear about 4 minutes total; season and serve."
+    ],
+    "tips": ["Do not add oil; the fat renders abundantly."],
+    "image": "/images/wagyu-mince-1.jpg"
+  },
+  {
+    "id": "roasted-marrow",
+    "title": "Roasted Marrow Bones",
+    "cut": "marrow-bones",
+    "method": "roast",
+    "total_time_minutes": 25,
+    "serves": 4,
+    "ingredients": [
+      "Marrow bones",
+      "Salt, pepper",
+      "Parsley salad",
+      "Crusty bread"
+    ],
+    "steps": [
+      "Season bones; roast at 220 C about 20 minutes.",
+      "Serve with parsley salad and toast."
+    ],
+    "tips": ["Do not overcook; marrow should just quiver."],
+    "image": "/images/marrow-1.jpg"
+  },
+  {
+    "id": "pho-brisket-bones",
+    "title": "Pho Broth with Brisket Bones",
+    "cut": "brisket-bones",
+    "method": "simmer",
+    "total_time_minutes": 420,
+    "serves": 6,
+    "ingredients": [
+      "Brisket bones",
+      "Onion and ginger, charred",
+      "Spices (star anise, cinnamon, clove)",
+      "Fish sauce"
+    ],
+    "steps": [
+      "Blanch bones; rinse.",
+      "Simmer gently with aromatics for 6 hours.",
+      "Season with fish sauce and serve."
+    ],
+    "tips": ["Never boil vigorously; broth clouds."],
+    "image": "/images/brisket-bones-1.jpg"
+  },
+  {
+    "id": "lengua-tacos",
+    "title": "Lengua Tacos",
+    "cut": "tongue",
+    "method": "pressure",
+    "total_time_minutes": 210,
+    "serves": 6,
+    "ingredients": [
+      "1 beef tongue",
+      "Onion, garlic",
+      "Bay leaves",
+      "Tortillas and toppings"
+    ],
+    "steps": [
+      "Pressure cook tongue until tender; natural release.",
+      "Peel while warm; dice and sear.",
+      "Serve on tortillas with toppings."
+    ],
+    "tips": ["Reserve cooking liquid for soups."],
+    "image": "/images/tongue-1.jpg"
+  }
+]
